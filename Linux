@@ -1,1 +1,24 @@
 Hello
+
+Linux Few Command
+
+ls      lit of directory content
+ls -al    fomating listing with hidden file 
+ls -a    show directory
+cd dir -   change directory to dir
+
+cd -      change to home directory 
+
+pwd       show current working dir
+
+cat >file place the standard input into the file
+
+touch file     crate or update the file
+
+rm        remove
+mv        move
+
+
+cp        copy
+cd ..     directory to home
+
