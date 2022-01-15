@@ -1,0 +1,11 @@
+find a word and word must be a 6 word:
+
+Should 
+Absolute
+Man
+Pleas
+Real 
+People  
+
+
+Command to find the 6 word letter :grep -E '^.{6}$' file
