@@ -15,7 +15,7 @@ pipeline {
 
     stage('deploy') {
       steps {
-        sh 'jenkins info | grep -i version'
+        sh 'java info | java -version'
       }
     }
 
